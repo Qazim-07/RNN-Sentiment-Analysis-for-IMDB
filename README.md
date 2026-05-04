@@ -1,4 +1,4 @@
-# 📊 RNN Sentiment Analysis for IMDB
+#  🎬  RNN Sentiment Analysis for IMDB
 
 This project demonstrates **sentiment analysis** on the **IMDB movie reviews dataset** using a **Recurrent Neural Network (RNN)** implemented entirely in a single Jupyter Notebook. The model classifies reviews as **positive** or **negative**, showcasing how RNNs capture sequential dependencies in text.
 
