@@ -76,7 +76,8 @@ Contributions are welcome! Fork the repo, open issues, or submit pull requests.
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
+## 👤 Author
+- **Qazim-07**  
+- GitHub: [Qazim-07](https://github.com/Qazim-07)
 
 ---
